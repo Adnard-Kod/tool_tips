@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ToolTips::VERSION
   spec.authors       = ["Adnard-kod"]
   spec.email         = ["andra.lally@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Add tool tip css and javascript.}
+  spec.description   = %q{Add tool tip css and javascript.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
