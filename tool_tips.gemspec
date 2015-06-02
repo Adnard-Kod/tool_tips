@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Adnard-kod"]
   spec.email         = ["andra.lally@gmail.com"]
   spec.summary       = %q{Add tool tip css and javascript.}
-  spec.description   = %q{Add tool tip css and javascript.}
+  spec.description   = %q{Add tool tip css and javascript to any application.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

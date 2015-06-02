@@ -1,0 +1,35 @@
+.alert-box {
+  position: absolute;
+  top: -45px;
+  .alert-text {
+    border-radius: 3px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+  }
+  .alert-text.success {
+    background: #4CAE4C;
+  }
+  .alert-text.warning {
+    background: #F0AD4E;
+  }
+  .alert-text.danger {
+    background: #D9534F;
+  }
+  .arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+  }
+  .arrow-down.success {
+    border-top: 10px solid #4CAE4C;
+  }
+  .arrow-down.warning {
+    border-top: 10px solid #F0AD4E;;
+  }
+  .arrow-down.danger {
+    border-top: 10px solid #D9534F;
+  }
+}
