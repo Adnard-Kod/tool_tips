@@ -19,14 +19,7 @@ Or install it yourself as:
     $ gem install tool_tips
 
 ## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/tool_tips/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-# tool_tips
+Run the following method with a custom message, location of the tip and one of the three give class name. 
+``` javascript
+  toolTip.alert(message, location, class_name)
+```
